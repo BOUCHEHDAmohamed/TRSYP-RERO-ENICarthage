@@ -2,7 +2,7 @@
 
 <img src="docs/assets/trsyp_banner.png" alt="IEEE TRSYP 2025 - AutoEmbodAI" width="100%"/>
 
-# TRSYP-RERO-ENICarthage
+# TRSYP-AURORA-ENICarthage
 
 [![Docs](https://img.shields.io/badge/Documentation-MkDocs-4B8BBE?logo=mkdocs)](https://YOUR-USERNAME.github.io/TRSYP-RERO-ENICarthage/)  
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python)](requirements.txt)  
